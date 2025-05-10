@@ -1,0 +1,8 @@
+*.o
+echo_server
+obj/
+*.swp
+*.swo
+*~
+.vscode/
+core
